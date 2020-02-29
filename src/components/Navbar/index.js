@@ -17,7 +17,7 @@ function Navbar() {
                                     : "nav-link"
                             }
                         >
-                            <strong>Henry Hawm</strong>
+                            <i class="fas fa-address-card"></i>
                         </Link>
                     </li>
                     <li className="nav-item">
@@ -25,7 +25,7 @@ function Navbar() {
                             to="/discover"
                             className={window.location.pathname === "/discover" ? "nav-link active" : "nav-link"}
                         >
-                            Portfolio
+                            About
             </Link>
                     </li>
                     <li className="nav-item">
@@ -33,7 +33,7 @@ function Navbar() {
                             to="/search"
                             className={window.location.pathname === "/search" ? "nav-link active" : "nav-link"}
                         >
-                            Contact
+                            Portfolio
             </Link>
                     </li>
                 </ul>

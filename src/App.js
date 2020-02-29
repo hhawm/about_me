@@ -1,4 +1,5 @@
 import React from "react";
+// import { HashRouter, Switch, Route, Redirect } from "react-router-dom";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import About from "./pages/About";
 import Discover from "./pages/Discover";
