@@ -2,7 +2,7 @@
     "name": "hhawm",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://hhawm.github.io/react-portfolio/about",
+    "homepage": "https://hhawm.github.io/react-portfolio",
     "dependencies": {
         "@material-ui/core": "^4.9.4",
         "@testing-library/jest-dom": "^4.2.4",
