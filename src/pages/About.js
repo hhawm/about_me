@@ -7,9 +7,9 @@ function About() {
         <div>
             <Container>
                 <img className="profile-image center" src="images/hhawmprofile.jpg" alt="hhawmprofile" />
+                <h1>Henry Hawm</h1>
+                <h3>Let's Build Something!</h3>
                 <p>
-                    <h1>Henry Hawm</h1>
-                    <h3>Let's Build Something!</h3>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet diam tortor, id
                     consequat mauris ullamcorper eu. Orci varius natoque penatibus et magnis dis
                     parturient montes, nascetur ridiculus mus. Pellentesque et dui id justo finibus
