@@ -17,16 +17,8 @@ function Navbar() {
                                     : "nav-link"
                             }
                         >
-                            <i class="fas fa-address-card"></i>
-                        </Link>
-                    </li>
-                    <li className="nav-item">
-                        <Link
-                            to="/discover"
-                            className={window.location.pathname === "/discover" ? "nav-link active" : "nav-link"}
-                        >
                             About
-            </Link>
+                        </Link>
                     </li>
                     <li className="nav-item">
                         <Link
@@ -34,7 +26,7 @@ function Navbar() {
                             className={window.location.pathname === "/search" ? "nav-link active" : "nav-link"}
                         >
                             Portfolio
-            </Link>
+                        </Link>
                     </li>
                 </ul>
             </div>
