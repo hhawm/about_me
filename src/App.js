@@ -1,6 +1,6 @@
 import React from "react";
 // import { HashRouter, Switch, Route, Redirect } from "react-router-dom";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import About from "./pages/About";
 import Discover from "./pages/Discover";
 import Navbar from "./components/Navbar";
@@ -13,7 +13,7 @@ function App() {
             <div>
                 <Navbar />
                 <Wrapper>
-                    <Route exact path="/react-portfolio" component={About} />
+                    <Route exact path="/" component={About} />
                     <Route exact path="/about" component={About} />
                     <Route exact path="/portfolio" component={Discover} />
                 </Wrapper>
