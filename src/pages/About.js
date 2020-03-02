@@ -19,8 +19,7 @@ function About() {
                     tristique. Proin hendrerit efficitur malesuada. Mauris lorem urna, sodales accumsan
                     quam non, tristique tempor erat. Nullam non sem facilisis, tempus tortor sit amet,
                     volutpat nisl. Ut et turpis non nunc maximus mollis a vitae tortor. Pellentesque
-                    mattis risus ac quam laoreet cursus. Praesent suscipit orci neque, vestibulum
-                    tincidunt augue tincidunt non. Duis consequat mattis tortor vitae mattis.
+                    mattis risus ac quam laoreet cursus.
                 </p>
             </Container>
         </div >
